@@ -20,6 +20,6 @@ My name is Elias Costa Coelho. I work as a Android Developer at Zup Innovation.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/elias-coelho-0069b2147/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="elias_coelho911@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=3353bd"/></a>
+<a href="https://www.linkedin.com/in/elias-coelho-0069b2147/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="mailto:elias_coelho911@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=3353bd"/></a>
 
 </p>
